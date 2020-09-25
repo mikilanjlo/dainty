@@ -1,4 +1,4 @@
-#Last updated August 11th 2020
+#Last updated September 2nd 2020
 #Appodeal
 appodeal.com, 105675, DIRECT
 #BidMachine
@@ -388,15 +388,22 @@ spotxchange.com, 295535, RESELLER, 7842df1d2fe2db34
 spotx.tv, 295535, RESELLER, 7842df1d2fe2db34
 improvedigital.com, 1720, RESELLER
 #Algorix
-algorix.co, 54821, RESELLER
-aralego.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
-ucfunnel.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
-pubmatic.com, 157941, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
-openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+algorix.co, 54821,DIRECT
+algorix.co, 60019,DIRECT
+ucfunnel.com, par-27363B29EE777928C863498AE4B76727, RESELLER 
+ucfunnel.com, par-9A292743382DDA3AC4B7964D293EBE44, RESELLER 
+ucfunnel.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER 
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6 
+inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d 
+olaex.biz,100039,Reseller
+Peak226.com, 12400, RESELLER 
+smartadserver.com, 3817, RESELLER
+pubnative.net, 1007262, RESELLER, d641df8625486a7b 
+onetag.com, 5a02ff98ba6be67,Reseller
+admanmedia.com, 621, Reseller
+meitu.com,186,RESELLER
+webeyemob.com, 70093, RESELLER
 admixer.net,a80e4ca1-f52f-4aa5-98e1-010c8d08251b,RESELLER
-loopme.com,11119,RESELLER,6c8d5f95897a5a3b
-contextweb.com, 562146, RESELLER, 89ff185a4c4e857c 
 #SmartyAds
 smartyads.com, 355, RESELLER, fd2bde0ff2e62c5d    
 smartyads.com,1369, RESELLER, fd2bde0ff2e62c5d   
@@ -420,6 +427,7 @@ freewheel.tv, 30189, RESELLER
 freewheel.tv, 64289, RESELLER
 www.spotx.tv, 78856, RESELLER
 #Mobfox
+mobfox.com, 303-b3610, DIRECT
 mobfox.com, 82490, DIRECT, 5529a3d1f59865be
 mobfox.com, 82079, DIRECT, 5529a3d1f59865be
 mobfox.com, 81153, DIRECT, 5529a3d1f59865be
