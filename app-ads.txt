@@ -1,4 +1,4 @@
-#Last updated February 17th 2021
+#Last updated March 11th 2021
 #Appodeal
 appodeal.com, 105675, DIRECT
 #BidMachine
@@ -475,6 +475,7 @@ xad.com,589,RESELLER,81cbf0a75a5e0e9a
 Inmobi.com,a5e661acdc384e91a79a58eb3418e99f,RESELLER,83e75a7ae333ca9d
 #AdMixer
 admixer.net, 6477248d-9798-4581-9bfd-2e83e6d35cd3, RESELLER
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 openx.com,541031350,RESELLER,6a698e2ec38604c6
 pubmatic.com,156631,RESELLER,5d62403b186f2ace
 e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
@@ -509,3 +510,6 @@ sovrn.com, 297837, DIRECT, fafdf38b16bf6b2b
 lijit.com, 297837, DIRECT, fafdf38b16bf6b2b
 #EngageBDR
 engagebdr.com, 10073, RESELLER
+#Brave
+appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12501 , RESELLER, f5ab79cb980f11d1
