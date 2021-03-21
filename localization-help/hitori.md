@@ -3,7 +3,7 @@
 You can help us localize Hitori. Follow these instructions:
 1. Download [sample localization files](https://github.com/DaintyGames/DaintyGames.github.io/raw/master/localization-help/hitori.zip).
 1. Translate from any language among the examples of localization files to yours into a file named ```locale_new.json```
-1. Send the fully localized file to [games.dainty@gmail.com](mailto:games.dainty@gmail.com). You need to specify the language in the message or rename your file to ```locale_<code>.json```, where ```<code>``` is the two-letter country code and (optionally) the two-letter region code. You can find your code [here](https://github.com/L-P/native-language-list/blob/master/data/langs.csv).
+1. Send the localized file to [games.dainty@gmail.com](mailto:games.dainty@gmail.com). You need to specify the language in the message or rename your file to ```locale_<code>.json```, where ```<code>``` is the two-letter country code and (optionally) the two-letter region code. You can find your code [here](https://github.com/L-P/native-language-list/blob/master/data/langs.csv).
 1. Also indicate if you want to update the localization when we add new texts.
 
 Translation requirements
@@ -23,7 +23,7 @@ The localization file consists of key-value pairs. Example:
     "group_1.key_2": "string",
 
     "group_2.key_1": "string",
-    "group_2.key_2": "string",
+    "group_2.key_2": "string"
   }
 }
 ```
