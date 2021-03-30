@@ -1,15 +1,15 @@
 # Terms of Use
-###1. Introduction
+### 1. Introduction
 
 These Terms of Use govern the relationship between you and DAINTY or any one of its affiliated entities (“we”, “our” and “us”) in relation to any of our websites, applications (“**Application**”) or services (including support services), which may be accessible via a third party platform, web application or social networking service (together referred to as the “**Services**”).
 
 Please review these Terms of Use carefully before using our Services. If you do not want to accept the Terms of Use or the Privacy Policy, then you may not use or access any of the Services.
 
-###2. Amendments to the Terms of Use
+### 2. Amendments to the Terms of Use
 
 From time to time, we can amend these Terms of Use at our sole discretion, to modify or discontinue any aspect or feature of our Services or to modify these Terms of Use. If we make such a change to these Terms of Use, we will inform you through posting a new version of Terms of Use on our website, notification via email, or through our Services. Please review Terms of Use from time to time for any changes each time you use the Services. Changes to the Terms of Use shall not affect your accrued rights, shall not substantially disrupt the contractual balance between you and us under these Terms of Use and shall not have retroactive effect. If you object to any subsequent revision to the Terms of Use, immediately discontinue use of our Services and.
 
-###3. Content
+### 3. Content
 
 3.1. The Services contain a lot of content, including, but not limited to software, technology, text, widgets, messages, links, e-mails, music, sound, graphics, pictures or video materials (the "Content"). The Content and all of the intellectual property rights in the Content are owned by us (or by our affiliates and partners as applicable).
 
@@ -33,11 +33,11 @@ d) we do not guarantee that any of the Content will be available at all times, i
 e) the Content you have access to is not returnable, exchangeable, or refundable for other Content or for cash, or other goods or services; and<br/>
 f) we may have to change or update the Content from time to time.
 
-###4. Third Party Links
+### 4. Third Party Links
 
 The Services may include hyperlinks to web sites operated by third parties including advertisers and other content providers. Those sites may collect data or solicit personal information from you. We do not control such websites, and are not responsible for their content, privacy policies, or for the collection, use or disclosure of any information those sites may collect. You assume sole responsibility for your use of third-party links. We are not responsible for any content posted on third-party websites or liable to you for any loss or damage of any sort incurred as a result of your dealings with any third-party or their website.
 
-###5. Warranties and Liability Regarding the Services
+### 5. Warranties and Liability Regarding the Services
 
 5.1 We warrant that we have the right to enter the Terms of Service and to grant you the licences to use the Services set out in section 3 "Content".
 
@@ -47,17 +47,17 @@ The Services may include hyperlinks to web sites operated by third parties inclu
 
 5.4. Any further liability of us either for the Services, Services Content or any advertising in connection with our Services or any links placed in our Services, as well as by reason of any information or advice received through or advertised in connection with our Services or any links placed in our Services shall be waived to the broadest extent as permitted by relevant provisions of applicable law.
 
-###6. Termination
+### 6. Termination
 
 We reserve the right in our sole discretion and at any time to terminate or suspend your Subscription and/or block your use of our Services for any reason including, without limitation if you have failed to comply with the terms of this Terms of Use.
 
-###7. Governing (Applicable) Law and Jurisdiction
+### 7. Governing (Applicable) Law and Jurisdiction
 
 7.1. These Terms of Use and any dispute, claim or obligation (whether contractual or non-contractual) arising out of or in connection with it or its subject matter or formation shall be governed by the laws of Estonia, unless otherwise required by the law of the country where the user has his habitual residence.
 
 7.2. We and you submit all the aforementioned disputes to the jurisdiction of the courts of the country whose laws are applicable subject to Section 1 of this Article 6 "Governing (Applicable) Law and Jurisdiction".
 
-###8. Miscellaneous
+### 8. Miscellaneous
 
 8.1. You cannot assign these Terms of Use or any rights granted you, or any obligations accrued by you under this Terms of Use, to any third party without our prior written consent. Any such assignment shall be null and void and of no force and effect. We may assign any or all of its rights and obligations under this Terms of Use at our will fully or partially at any time without notice to you.
 
@@ -67,6 +67,6 @@ We reserve the right in our sole discretion and at any time to terminate or susp
 
 8.4. Failure or delay by either party to enforce any of its rights in connection with this Terms of Use, or to insist upon the strict performance of the terms of this Terms of Use, shall not be construed as a waiver or a relinquishment of any such rights for future breach or their enforcement. No single or partial exercise of such right or remedy will preclude or restrict the further exercise of that or any other right or remedy.
 
-###9. Contact Us
+### 9. Contact Us
 
 If you have any questions, complaints or comments regarding these Terms of Use, please contact us at: games.dainty@gmail.com.
