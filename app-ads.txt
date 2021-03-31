@@ -1,4 +1,4 @@
-#Last updated March 11th 2021
+#Last updated March 26th 2021
 #Appodeal
 appodeal.com, 105675, DIRECT
 #BidMachine
@@ -513,3 +513,19 @@ engagebdr.com, 10073, RESELLER
 #Brave
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12501 , RESELLER, f5ab79cb980f11d1
+thebrave.io, 9840732, DIRECT, c25b2154543746ac
+supply.colossusssp.com, 244, DIRECT, 6c5b49d96ec1b458
+smartadserver.com, 3964, DIRECT
+indexexchange.com, 192585, DIRECT
+onetag.com, 5fc7cb4d7816390, DIRECT
+#Unruly
+rhythmone.com, 3634565696, DIRECT, a670c89d4a324e47 
+video.unrulymedia.com, 3634565696, DIRECT 
+indexexchange.com, 182257, RESELLER 
+appnexus.com, 6849, RESELLER 
+rubiconproject.com, 15268, RESELLER 
+spotxchange.com, 285547, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 285547, RESELLER, 7842df1d2fe2db34 
+pubmatic.com, 159277, RESELLER, 5d62403b186f2ace 
+advertising.com, 28605, RESELLER 
+improvedigital.com, 1699, RESELLER
